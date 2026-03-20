@@ -9,7 +9,7 @@ The project focuses on modern UI design, responsiveness, and utility-first CSS s
 
  1. Clone the repository:
    
-   git clone (https://raoamitkumar01.github.io/college-project-2/)
+   git clone - https://raoamitkumar01.github.io/college-project-3/
 
 2. Open the project folder:
    
